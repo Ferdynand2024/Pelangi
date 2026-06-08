@@ -1,0 +1,1 @@
+<img src="{{ asset('assets/img/logo.jpg') }}" alt="Logo Pelangi" style="width: 65px; height: auto;">
